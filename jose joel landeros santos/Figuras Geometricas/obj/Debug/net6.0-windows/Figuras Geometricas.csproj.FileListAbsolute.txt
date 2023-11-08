@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\bin\Debug\net6.0-windows\Figuras Geometricas.exe
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\bin\Debug\net6.0-windows\Figuras Geometricas.deps.json
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\bin\Debug\net6.0-windows\Figuras Geometricas.runtimeconfig.json
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\bin\Debug\net6.0-windows\Figuras Geometricas.dll
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\bin\Debug\net6.0-windows\Figuras Geometricas.pdb
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras_Geometricas.Form1.resources
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.dll
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\refint\Figuras Geometricas.dll
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.pdb
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\Figuras Geometricas.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\jose joel landeros santos\Figuras Geometricas\obj\Debug\net6.0-windows\ref\Figuras Geometricas.dll
