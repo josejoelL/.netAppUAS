@@ -12,7 +12,7 @@ namespace Figuras_Geometricas
 	{
 
 		//atributos
-		private float aAltura;
+		protected float aAltura;
 		public Cilindro()// por defecto
 		{
 			this.aAltura = 0.0f;
@@ -28,12 +28,11 @@ namespace Figuras_Geometricas
 		}
 		//metodos 
 
-		public double Volumen()
+		public virtual double Volumen()
 		{
 			
-			return base.Area() * this.aAltura;
 		}
-		public override double Area()
+		public override override double Area() //checha si es correcto el virtual
 		{
 			return 0;
 		}

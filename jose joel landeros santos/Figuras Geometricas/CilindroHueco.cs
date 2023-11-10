@@ -22,12 +22,14 @@ namespace Figuras_Geometricas
         set { this.aRadioInterno = value; }
         get { return this.aRadioInterno; }
     }
-    public double Volumen()
+    public override double Volumen()
     {
+        return Math.PI * (Math.Pow(this.aRadio,2)-
+        Math.Pow(this.aRadioInterno,2)) * this.aAltura;
 
     }
-    public double Longitud()
+    public override double Longitud()
     {
-
+        return 2 * math.PI * (Math.Pow(this.aRadio,2)- Math.Pow(this.aRadioInterno,2)) + 2 * Math.PI * this.aRadio * this.aAltura + 2 * Math.PI * this.aAltura * this.aRadioInterno
     }
 }

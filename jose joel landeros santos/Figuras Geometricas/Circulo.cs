@@ -10,7 +10,7 @@ namespace Figuras_Geometricas
     internal class Circulo {
 
         //atributos
-        private float aRadio;
+        protected float aRadio;
         public Circulo()// por defecto
         {
             this.aRadio = 0.0f;
@@ -25,12 +25,12 @@ namespace Figuras_Geometricas
         }
         //metodos 
 
-        public double Area()
+        public virtual double Area()
         {
             const float PI = 3.1416F;
             return PI * (this.aRadio * this.aRadio);
         }
-        public double Longitud()
+        public virtual double Longitud()
         {
            
             return 2 * Math.PI *  this.aRadio;
